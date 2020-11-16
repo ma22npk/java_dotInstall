@@ -4,6 +4,6 @@ public class DotInstall_01 {
 
     public static void main(String[] args) {
         // TODO 自動生成されたメソッド・スタブ
-        System.out.println("ドットインストールの学習開始");
+        System.out.println("ドットインストールの学習開始します。");
     }
 }
